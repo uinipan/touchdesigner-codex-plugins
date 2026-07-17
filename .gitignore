@@ -1,0 +1,17 @@
+# TouchDesigner temporary and backup files
+*.toe.autosave
+*.tox.autosave
+Backup/
+backup/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
