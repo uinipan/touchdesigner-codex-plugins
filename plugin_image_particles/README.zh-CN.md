@@ -4,6 +4,8 @@
 
 `image_particles.tox` 用于将图片、视频或其他 TOP 转换为保留原图颜色和宽高比的动态粒子效果。
 
+![Image Particles 图片粒子效果预览](./preview.png)
+
 作者：`uinipan`
 
 ## 兼容性
@@ -82,4 +84,3 @@
 ## 已知提示
 
 内部 `image_points` Script SOP 可能显示 cook dependency loop 黄色提示。当前打包版本已测试，视觉结果和输出正常。
-

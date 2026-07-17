@@ -4,6 +4,8 @@ English | [中文](./README.zh-CN.md)
 
 `image_particles.tox` converts an image, video, or other TOP into an animated colored particle rendering while preserving the source image's aspect ratio and color information.
 
+![Image Particles preview](./preview.png)
+
 Author: `uinipan`
 
 ## Compatibility
@@ -82,4 +84,3 @@ Use `Image Scale` for composition and `Max Render Resolution` for pixel clarity/
 ## Known note
 
 The internal `image_points` Script SOP may show a yellow cook dependency loop warning. The packaged version was tested with correct visual output despite this warning.
-
