@@ -4,7 +4,7 @@ English | [中文](./README.zh-CN.md)
 
 `image_particles.tox` converts an image, video, or other TOP into an animated colored particle rendering while preserving the source image's aspect ratio and color information.
 
-![Image Particles preview](./preview.png)
+![Image Particles workflow preview](./preview-workflow.png)
 
 Author: `uinipan`
 

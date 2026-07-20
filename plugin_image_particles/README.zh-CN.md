@@ -4,7 +4,7 @@
 
 `image_particles.tox` 用于将图片、视频或其他 TOP 转换为保留原图颜色和宽高比的动态粒子效果。
 
-![Image Particles 图片粒子效果预览](./preview.png)
+![Image Particles 图片粒子工作流预览](./preview-workflow.png)
 
 作者：`uinipan`
 
