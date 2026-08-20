@@ -15,6 +15,9 @@ Author: `uinipan`
 | [Image Particles](./plugin_image_particles/) | TOP / SOP / Render | Converts images or video into animated colored particles. |
 | [Mouse Reveal Feedback](./plugin_mouse_reveal_feedback/) | TOP / Feedback | Paints a persistent or fading reveal/erase mask with the mouse. |
 | [Reality Glitch Filter](./plugin_reality_glitch_filter/) | TOP / GLSL | Combines RGB split, scanlines, jitter, block displacement, analog noise, and posterization. |
+| [Record Sync](./plugin_record_sync/) | TOP / CHOP | Records video (with optional audio) to .mov with auto naming, cue-at-start, and auto stop. |
+| [Square Tracker](./plugin_square_tracker/) | TOP / Blob Track | Converts contrast regions into tracked square forms with feedback and independent color controls. |
+| [Video Trail](./plugin_video_trail/) | TOP / NumPy | Adds a fading per-pixel motion trail to any image or video. |
 
 Each plugin folder contains:
 
@@ -45,6 +48,9 @@ plugin_uinipan/
 ├── plugin_image_particles/
 ├── plugin_mouse_reveal_feedback/
 ├── plugin_reality_glitch_filter/
+├── plugin_record_sync/
+├── plugin_square_tracker/
+├── plugin_video_trail/
 ├── README.md
 └── README.zh-CN.md
 ```

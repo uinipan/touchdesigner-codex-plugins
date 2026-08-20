@@ -15,6 +15,9 @@
 | [Image Particles](./plugin_image_particles/) | TOP / SOP / Render | 将图片或视频转换成动态彩色粒子。 |
 | [Mouse Reveal Feedback](./plugin_mouse_reveal_feedback/) | TOP / Feedback | 使用鼠标绘制永久或自动消退的揭示/擦除遮罩。 |
 | [Reality Glitch Filter](./plugin_reality_glitch_filter/) | TOP / GLSL | 整合 RGB 分离、扫描线、抖动、图块错位、模拟噪点和色阶压缩。 |
+| [Record Sync](./plugin_record_sync/) | TOP / CHOP | 录制视频（可带音频）为 .mov，支持自动命名、开头 cue 和播完自动停止。 |
+| [Square Tracker](./plugin_square_tracker/) | TOP / Blob Track | 将高对比区域转化为被追踪的方块，并提供反馈和独立颜色控制。 |
+| [Video Trail](./plugin_video_trail/) | TOP / NumPy | 为任意图片或视频添加逐像素淡出的运动拖尾。 |
 
 每个插件文件夹包含：
 
@@ -45,6 +48,9 @@ plugin_uinipan/
 ├── plugin_image_particles/
 ├── plugin_mouse_reveal_feedback/
 ├── plugin_reality_glitch_filter/
+├── plugin_record_sync/
+├── plugin_square_tracker/
+├── plugin_video_trail/
 ├── README.md
 └── README.zh-CN.md
 ```
